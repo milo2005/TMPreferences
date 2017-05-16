@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Preference</string>
+    <string name="save_text">Valor a guardar</string>
+    <string name="save">Guardar</string>
+    <string name="no_data">No existen datos guardados</string>
+</resources>
